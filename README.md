@@ -1,3 +1,3 @@
-# Sports--Data-Projects-
+# Misc Data Projects
 
-Various EDA projects related to sports. 
+Various EDA projects related to sports, insurance, and etc 
